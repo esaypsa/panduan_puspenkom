@@ -27,6 +27,7 @@ export default withMermaid(
     ],
 
     srcDir: ".",
+    outDir: "../dist",
     cleanUrls: true,
     lastUpdated: true,
 
