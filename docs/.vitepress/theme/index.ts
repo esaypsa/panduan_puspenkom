@@ -9,6 +9,7 @@ import TabItem from './components/TabItem.vue'
 import TabGroup from './components/TabGroup.vue'
 import StatusBadge from './components/StatusBadge.vue'
 import FileRequirements from './components/FileRequirements.vue'
+import FeatureSlider from './components/FeatureSlider.vue'
 import './style.css'
 
 export default {
@@ -23,5 +24,6 @@ export default {
     app.component('TabGroup', TabGroup)
     app.component('StatusBadge', StatusBadge)
     app.component('FileRequirements', FileRequirements)
+    app.component('FeatureSlider', FeatureSlider)
   },
 } satisfies Theme

@@ -18,24 +18,34 @@ hero:
 
 features:
   - title: "PPDGS USU"
-    icon: "🦷"
+    icon:
+      src: /images/icons/dentist-tooth-svgrepo-com.svg
+      alt: PPDGS
     details: "Program Pendidikan Dokter Gigi Spesialis - Universitas Sumatera Utara"
     link: /ppdgs/persiapan
   - title: "PPDS USU"
-    icon: "🩺"
+    icon:
+      src: /images/icons/stethoscope-svgrepo-com.svg
+      alt: PPDS
     details: "Program Pendidikan Dokter Spesialis - Universitas Sumatera Utara"
     link: /ppds/persiapan
   - title: "Event Lainnya"
-    icon: "📅"
+    icon:
+      src: /images/icons/calendar-svgrepo-com.svg
+      alt: Event
     details: "Panduan untuk event lain akan ditambahkan di sini"
     link: "#"
   - title: "Event Mendatang"
-    icon: "🚀"
+    icon:
+      src: /images/icons/calendar-4-svgrepo-com.svg
+      alt: Mendatang
     details: "Pantau halaman ini untuk informasi event terbaru"
     link: "#"
 ---
 
 <div id="events" style="scroll-margin-top: 80px;"></div>
+
+<FeatureSlider />
 
 ## Daftar Event Tersedia
 
