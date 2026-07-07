@@ -25,14 +25,14 @@ Setelah login, Anda akan langsung melihat halaman dashboard yang menampilkan tab
 <div class="grid-2">
 
 <div class="info-card info">
-<div class="info-card-title">Notifikasi</div>
+<div class="info-card-title"><img src="/images/icons/email-9-svgrepo-com.svg" alt=""> Notifikasi</div>
 <div class="info-card-content">
 Update terbaru tentang pendaftaran Anda akan muncul di bagian atas dashboard. Periksa secara berkala.
 </div>
 </div>
 
 <div class="info-card success">
-<div class="info-card-title">Status</div>
+<div class="info-card-title"><img src="/images/icons/receipt-alt-3-svgrepo-com.svg" alt=""> Status</div>
 <div class="info-card-content">
 Setiap perubahan status pendaftaran akan langsung terlihat di dashboard.
 </div>
@@ -60,7 +60,7 @@ Dari dashboard Anda dapat:
 - [Melakukan pembayaran](/ppdgs/pembayaran)
 
 <div class="info-card tip">
-<div class="info-card-title">Tips</div>
+<div class="info-card-title"><img src="/images/icons/book-and-person-winter-svgrepo-com.svg" alt=""> Tips</div>
 <div class="info-card-content">
 - Periksa dashboard setiap hari untuk melihat update terbaru
 - Segera lengkapi data yang diminta

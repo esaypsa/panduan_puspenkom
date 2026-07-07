@@ -46,7 +46,7 @@ flowchart TB
 ![Screenshot Form Upload Bukti](/images/ppds/pembayaran-upload-modal.png)
 
 <div class="info-card tip">
-<div class="info-card-title">Tips Upload</div>
+<div class="info-card-title"><img src="/images/icons/receipt-alt-3-svgrepo-com.svg" alt=""> Tips Upload</div>
 <div class="info-card-content">
 - Gunakan format file JPG atau PNG untuk bukti transfer
 - Pastikan bukti terbaca jelas (nominal, tanggal, nama terlihat)
@@ -71,7 +71,7 @@ Admin akan memverifikasi pembayaran Anda dalam **1x24 jam** (hari kerja).
 ## Yang Perlu Diperhatikan
 
 <div class="info-card danger">
-<div class="info-card-title">Peringatan</div>
+<div class="info-card-title"><img src="/images/icons/document-scanner-svgrepo-com.svg" alt=""> Peringatan</div>
 <div class="info-card-content">
 - Lakukan pembayaran sebelum batas waktu yang ditentukan
 - Pembayaran yang melebihi batas waktu akan dianggap **MENGUNDURKAN DIRI**
@@ -81,7 +81,7 @@ Admin akan memverifikasi pembayaran Anda dalam **1x24 jam** (hari kerja).
 </div>
 
 <div class="info-card warning">
-<div class="info-card-title">Perhatian</div>
+<div class="info-card-title"><img src="/images/icons/receipt-alt-3-svgrepo-com.svg" alt=""> Perhatian</div>
 <div class="info-card-content">
 Jika status pembayaran masih "Menunggu Verifikasi" lebih dari 2 hari, hubungi admin untuk mengecek status.
 </div>

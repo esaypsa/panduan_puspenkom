@@ -43,7 +43,7 @@ flowchart LR
 | Sertifikat Prestasi | JPG | 1 MB | Jika ada, scan jelas |
 
 <div class="info-card tip">
-<div class="info-card-title">Tips Mempersiapkan Dokumen</div>
+<div class="info-card-title"><img src="/images/icons/book-and-person-winter-svgrepo-com.svg" alt=""> Tips Mempersiapkan Dokumen</div>
 <div class="info-card-content">
 - Gunakan format JPG dengan resolusi maksimal 2500x1600px
 - Simpan dokumen dengan nama file yang rapi (contoh: `Foto_Andi.jpg`)
@@ -65,7 +65,7 @@ flowchart LR
 ### Koneksi Internet
 
 <div class="info-card warning">
-<div class="info-card-title">Perhatian</div>
+<div class="info-card-title"><img src="/images/icons/document-scanner-svgrepo-com.svg" alt=""> Perhatian</div>
 <div class="info-card-content">
 Koneksi internet yang stabil sangat diperlukan, terutama saat:
 - Upload dokumen (file gambar)

@@ -30,7 +30,7 @@ flowchart TB
 ```
 
 <div class="info-card warning">
-<div class="info-card-title">Penting</div>
+<div class="info-card-title"><img src="/images/icons/id-card-svgrepo-com.svg" alt=""> Penting</div>
 <div class="info-card-content">
 Setiap tab memiliki tombol <strong>Simpan</strong> masing-masing. Pastikan Anda menyimpan data sebelum berpindah ke tab lain. Data yang sudah tersimpan akan tetap ada meskipun Anda logout.
 </div>
@@ -131,7 +131,7 @@ Tab ini berisi riwayat pendidikan kedokteran formal yang sudah ditempuh.
 | Upload (Ijazah) | File (JPG) | Max 1 MB, 2500x1600 px |
 
 <div class="info-card info">
-<div class="info-card-title">Keterangan</div>
+<div class="info-card-title"><img src="/images/icons/document-scanner-svgrepo-com.svg" alt=""> Keterangan</div>
 <div class="info-card-content">
 Upload Ijazah S1 Kedokteran dan Ijazah Profesi Dokter. File harus berformat .jpg dengan ukuran tidak lebih dari 1 MB dan resolusi maksimum 2500x1600 piksel.
 </div>
@@ -158,7 +158,7 @@ Tab ini berisi kursus, pelatihan, atau workshop yang pernah diikuti (sertakan up
 | Sertifikat/Lisensi | File (JPG) | Max 1 MB, 2500x1600 px |
 
 <div class="info-card warning">
-<div class="info-card-title">Catatan</div>
+<div class="info-card-title"><img src="/images/icons/document-extension-file-file-format-file-type-format-5-svgrepo-com.svg" alt=""> Catatan</div>
 <div class="info-card-content">
 Tidak termasuk segala bentuk kegiatan Seminar, Simposium, dan Pertemuan Ilmiah.
 </div>
@@ -356,7 +356,7 @@ Setiap tab memiliki tombol **Simpan** di bagian bawah. Pastikan Anda menyimpan d
 ## Hal yang Perlu Diperhatikan
 
 <div class="info-card danger">
-<div class="info-card-title">Perhatian</div>
+<div class="info-card-title"><img src="/images/icons/question-square-svgrepo-com.svg" alt=""> Perhatian</div>
 <div class="info-card-content">
 - Data yang sudah disimpan dan diverifikasi admin tidak dapat diubah sendiri oleh peserta. Hubungi admin jika terdapat kesalahan data.
 - Isilah data dengan jujur dan sesuai dengan dokumen resmi. Ketidaksesuaian data dapat menyebabkan pembatalan keikutsertaan.

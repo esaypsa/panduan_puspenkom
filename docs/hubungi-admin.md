@@ -46,7 +46,7 @@ Klik link di atas untuk langsung chat WhatsApp.
 </div>
 
 <div class="info-card info">
-<div class="info-card-title">📧 Email</div>
+<div class="info-card-title"><img src="/images/icons/email-9-svgrepo-com.svg" alt=""> Email</div>
 <div class="info-card-content">
 <b>Alamat:</b> p3m@usu.ac.id<br>
 <b>Subjek:</b> [kode event / konseling] - topik masalah<br>

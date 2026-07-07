@@ -47,7 +47,7 @@ flowchart TB
 4. Pendaftaran berhasil dikirim
 
 <div class="info-card info">
-<div class="info-card-title">Perhatian</div>
+<div class="info-card-title"><img src="/images/icons/calendar-4-svgrepo-com.svg" alt=""> Perhatian</div>
 <div class="info-card-content">
 Program Dokter Spesialis yang dipilih diisi pada Tab 1 Data Diri, bukan sebelum form.
 </div>
@@ -66,7 +66,7 @@ Langkah selanjutnya:
 ## Hal yang Perlu Diperhatikan
 
 <div class="info-card warning">
-<div class="info-card-title">Perhatian</div>
+<div class="info-card-title"><img src="/images/icons/document-scanner-svgrepo-com.svg" alt=""> Perhatian</div>
 <div class="info-card-content">
 - Pastikan semua dokumen sudah diupload melalui form biodata sebelum menyelesaikan pendaftaran
 - Beberapa event memiliki batas waktu pendaftaran yang ketat
@@ -75,7 +75,7 @@ Langkah selanjutnya:
 </div>
 
 <div class="info-card tip">
-<div class="info-card-title">Tips</div>
+<div class="info-card-title"><img src="/images/icons/book-and-person-winter-svgrepo-com.svg" alt=""> Tips</div>
 <div class="info-card-content">
 Pilih program studi yang sesuai dengan latar belakang pendidikan dan pengalaman Anda. Baca deskripsi program studi dengan teliti.
 </div>

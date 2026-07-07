@@ -413,6 +413,21 @@
   border-color: #ef4444;
 }
 
+/* Inline icon helper */
+.icon-inline {
+  width: 20px;
+  height: 20px;
+  vertical-align: middle;
+  margin-right: 4px;
+}
+
+/* Inline icon in info cards */
+.info-card-title img {
+  width: 22px;
+  height: 22px;
+  flex-shrink: 0;
+}
+
 /* Image placeholders */
 img.placeholder-screenshot {
   border: 2px dashed var(--vp-c-border);

@@ -27,7 +27,6 @@ export default withMermaid(
     ],
 
     srcDir: ".",
-    outDir: "../dist",
     cleanUrls: true,
     lastUpdated: true,
 
@@ -178,11 +177,6 @@ export default withMermaid(
       footer: {
         message: "Dokumentasi Panduan Peserta",
         copyright: "Copyright ©2026 Universitas Sumatera Utara",
-      },
-
-      editLink: {
-        pattern: "https://github.com/usu/ppdgs-panduan/edit/main/docs/:path",
-        text: "Edit halaman ini",
       },
 
       lastUpdated: {

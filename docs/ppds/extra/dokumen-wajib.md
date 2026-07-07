@@ -133,7 +133,8 @@ Semua dokumen diupload langsung di dalam tab formulir pendaftaran (kecuali Bukti
 ## Ketentuan Umum Upload
 
 <div class="info-card info">
-
+<div class="info-card-title"><img src="/images/icons/document-scanner-svgrepo-com.svg" alt=""> Ketentuan File</div>
+<div class="info-card-content">
 Seluruh dokumen berformat **JPG** wajib memenuhi ketentuan berikut:
 - **Format**: JPG (JPEG)
 - **Ukuran Maksimal**: 1 MB per file
@@ -142,17 +143,20 @@ Seluruh dokumen berformat **JPG** wajib memenuhi ketentuan berikut:
 - **Kualitas**: Jelas, tidak buram, tidak terpotong
 
 </div>
+</div>
 
 ## Tips Menyiapkan Dokumen
 
 <div class="info-card success">
-
+<div class="info-card-title"><img src="/images/icons/book-and-person-winter-svgrepo-com.svg" alt=""> Tips Menyiapkan Dokumen</div>
+<div class="info-card-content">
 1. **Scan dengan resolusi cukup** - 300 DPI sudah memadai, tidak perlu lebih tinggi
 2. **Beri nama file yang rapi** - Contoh: `Foto_NamaLengkap.jpg`
 3. **Kompres jika terlalu besar** - Gunakan aplikasi image compressor agar ukuran di bawah 1 MB
 4. **Simpan di cloud** - Google Drive atau Dropbox sebagai cadangan
 5. **Periksa kembali** - Pastikan file tidak corrupt sebelum upload
 
+</div>
 </div>
 
 ## Dokumen yang Tidak Perlu Diupload

@@ -46,7 +46,7 @@ Halaman login dan registrasi berada pada halaman yang sama. Anda bisa beralih an
 4. Anda langsung masuk ke Dashboard
 
 <div class="info-card tip">
-<div class="info-card-title">Tips</div>
+<div class="info-card-title"><img src="/images/icons/password-key-svgrepo-com.svg" alt=""> Tips</div>
 <div class="info-card-content">
 Pastikan Anda menggunakan akun Google yang **sama** saat registrasi dan login.
 </div>
@@ -86,7 +86,7 @@ Untuk mengganti password:
 6. Password berhasil diganti
 
 <div class="info-card warning">
-<div class="info-card-title">Perhatian</div>
+<div class="info-card-title"><img src="/images/icons/id-card-svgrepo-com.svg" alt=""> Perhatian</div>
 <div class="info-card-content">
 Setelah mengganti password, Anda akan logout dari semua perangkat. Silakan login kembali dengan password baru.
 </div>

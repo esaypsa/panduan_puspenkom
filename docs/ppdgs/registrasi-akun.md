@@ -65,7 +65,7 @@ Registrasi akun dilakukan **sebelum** mendaftar event. Anda hanya perlu registra
 ![Screenshot Registrasi Google](/images/ppdgs/placeholder-registrasi-google.svg)
 
 <div class="info-card tip">
-<div class="info-card-title">Keuntungan Registrasi Google</div>
+<div class="info-card-title"><img src="/images/icons/id-card-svgrepo-com.svg" alt=""> Keuntungan Registrasi Google</div>
 <div class="info-card-content">
 - Tidak perlu mengingat password tambahan
 - Proses lebih cepat
@@ -79,7 +79,7 @@ Registrasi akun dilakukan **sebelum** mendaftar event. Anda hanya perlu registra
 ## Tips Membuat Password
 
 <div class="info-card warning">
-<div class="info-card-title">Tips Password Aman</div>
+<div class="info-card-title"><img src="/images/icons/password-key-svgrepo-com.svg" alt=""> Tips Password Aman</div>
 <div class="info-card-content">
 - Minimal 8 karakter
 - Kombinasi huruf besar, huruf kecil, angka, dan simbol
@@ -91,7 +91,7 @@ Registrasi akun dilakukan **sebelum** mendaftar event. Anda hanya perlu registra
 ## Kesalahan yang Sering Terjadi
 
 <div class="info-card danger">
-<div class="info-card-title">Kesalahan Umum</div>
+<div class="info-card-title"><img src="/images/icons/question-square-svgrepo-com.svg" alt=""> Kesalahan Umum</div>
 <div class="info-card-content">
 
 | Kesalahan | Solusi |

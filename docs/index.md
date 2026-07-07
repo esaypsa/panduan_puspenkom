@@ -42,22 +42,22 @@ features:
 <div class="grid-2">
 
 <div class="info-card success" onclick="window.location='/ppdgs/persiapan'" style="cursor:pointer">
-<div class="info-card-title">🦷 PPDGS USU</div>
+<div class="info-card-title"><img src="/images/icons/dentist-tooth-svgrepo-com.svg" alt=""> PPDGS USU</div>
 <div class="info-card-content">
 <strong>Program Pendidikan Dokter Gigi Spesialis</strong><br>
 Fakultas Kedokteran Gigi Universitas Sumatera Utara<br><br>
-📋 <a href="/ppdgs/persiapan">Baca Panduan →</a><br>
-📄 <a href="/ppdgs/faq">FAQ</a> · <a href="/hubungi-admin">Hubungi Kami</a>
+<img src="/images/icons/book-and-person-winter-svgrepo-com.svg" class="icon-inline" alt=""> <a href="/ppdgs/persiapan">Baca Panduan →</a><br>
+<img src="/images/icons/question-square-svgrepo-com.svg" class="icon-inline" alt=""> <a href="/ppdgs/faq">FAQ</a> · <img src="/images/icons/phone-calling-svgrepo-com.svg" class="icon-inline" alt=""> <a href="/hubungi-admin">Hubungi Kami</a>
 </div>
 </div>
 
 <div class="info-card success" onclick="window.location='/ppds/persiapan'" style="cursor:pointer">
-<div class="info-card-title">🩺 PPDS USU</div>
+<div class="info-card-title"><img src="/images/icons/stethoscope-svgrepo-com.svg" alt=""> PPDS USU</div>
 <div class="info-card-content">
 <strong>Program Pendidikan Dokter Spesialis</strong><br>
 Fakultas Kedokteran Universitas Sumatera Utara<br><br>
-📋 <a href="/ppds/persiapan">Baca Panduan →</a><br>
-📄 <a href="/ppds/faq">FAQ</a> · <a href="/hubungi-admin">Hubungi Kami</a>
+<img src="/images/icons/book-and-person-winter-svgrepo-com.svg" class="icon-inline" alt=""> <a href="/ppds/persiapan">Baca Panduan →</a><br>
+<img src="/images/icons/question-square-svgrepo-com.svg" class="icon-inline" alt=""> <a href="/ppds/faq">FAQ</a> · <img src="/images/icons/phone-calling-svgrepo-com.svg" class="icon-inline" alt=""> <a href="/hubungi-admin">Hubungi Kami</a>
 </div>
 </div>
 

@@ -30,7 +30,7 @@ Semua dokumen yang diupload **wajib dalam format JPG** dengan ketentuan:
 Pengecualian: Bukti pembayaran dapat diupload dalam format **JPG atau PNG**.
 
 <div class="info-card warning">
-<div class="info-card-title">Perhatian</div>
+<div class="info-card-title"><img src="/images/icons/document-scanner-svgrepo-com.svg" alt=""> Perhatian</div>
 <div class="info-card-content">
 Pastikan dokumen terbaca dengan jelas. Dokumen yang buram atau tidak sesuai ketentuan akan ditolak oleh admin.
 </div>

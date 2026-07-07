@@ -17,12 +17,12 @@ flowchart LR
 
 ## Mulai Membaca
 
-- [📋 Persiapan Pendaftaran](/ppdgs/persiapan) — Siapkan dokumen dan data
-- [👤 Registrasi Akun](/ppdgs/registrasi-akun) — Buat akun baru
-- [🔐 Login](/ppdgs/login) — Cara masuk ke aplikasi
-- [📊 Dashboard](/ppdgs/dashboard) — Menu dan fitur dashboard
+- <img src="/images/icons/book-and-person-winter-svgrepo-com.svg" class="icon-inline" alt=""> [Persiapan Pendaftaran](/ppdgs/persiapan) — Siapkan dokumen dan data
+- <img src="/images/icons/id-card-svgrepo-com.svg" class="icon-inline" alt=""> [Registrasi Akun](/ppdgs/registrasi-akun) — Buat akun baru
+- <img src="/images/icons/password-key-svgrepo-com.svg" class="icon-inline" alt=""> [Login](/ppdgs/login) — Cara masuk ke aplikasi
+- <img src="/images/icons/receipt-alt-3-svgrepo-com.svg" class="icon-inline" alt=""> [Dashboard](/ppdgs/dashboard) — Menu dan fitur dashboard
 
 ## Bantuan
 
-- [❓ FAQ](/ppdgs/faq) — Pertanyaan umum
-- [📞 Hubungi Kami](/hubungi-admin) — Kontak panitia
+- <img src="/images/icons/question-square-svgrepo-com.svg" class="icon-inline" alt=""> [FAQ](/ppdgs/faq) — Pertanyaan umum
+- <img src="/images/icons/phone-calling-svgrepo-com.svg" class="icon-inline" alt=""> [Hubungi Kami](/hubungi-admin) — Kontak panitia
