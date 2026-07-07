@@ -27,7 +27,6 @@ export default withMermaid(
     ],
 
     srcDir: ".",
-    outDir: "docs/.vitepress/dist",
     cleanUrls: true,
     lastUpdated: true,
 
