@@ -135,6 +135,7 @@ export default withMermaid(
             items: [
               { text: "Registrasi Akun", link: "/ppdgs/registrasi-akun" },
               { text: "Login", link: "/ppdgs/login" },
+              { text: "Lupa Password", link: "/ppdgs/lupa-password" },
             ],
           },
           {

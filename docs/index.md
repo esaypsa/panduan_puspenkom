@@ -15,6 +15,9 @@ hero:
     - theme: alt
       text: Hubungi Kami
       link: /hubungi-admin
+    - theme: brand
+      text: Buka Aplikasi Lentera
+      link: https://lentera.puspenkomusu.com
 
 features:
   - title: "PPDGS USU"
@@ -57,7 +60,11 @@ features:
 <strong>Program Pendidikan Dokter Gigi Spesialis</strong><br>
 Fakultas Kedokteran Gigi Universitas Sumatera Utara<br><br>
 <img src="/images/icons/book-and-person-winter-svgrepo-com.svg" class="icon-inline" alt=""> <a href="/ppdgs/persiapan">Baca Panduan →</a><br>
-<img src="/images/icons/question-square-svgrepo-com.svg" class="icon-inline" alt=""> <a href="/ppdgs/faq">FAQ</a> · <img src="/images/icons/phone-calling-svgrepo-com.svg" class="icon-inline" alt=""> <a href="/hubungi-admin">Hubungi Kami</a>
+<img src="/images/icons/question-square-svgrepo-com.svg" class="icon-inline" alt=""> <a href="/ppdgs/faq">FAQ</a> · <img src="/images/icons/phone-calling-svgrepo-com.svg" class="icon-inline" alt=""> <a href="/hubungi-admin">Hubungi Kami</a><br><br>
+<a href="https://lentera.puspenkomusu.com" target="_blank" class="cta-button-inline">
+  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+  Buka Aplikasi Lentera
+</a>
 </div>
 </div>
 
@@ -67,7 +74,11 @@ Fakultas Kedokteran Gigi Universitas Sumatera Utara<br><br>
 <strong>Program Pendidikan Dokter Spesialis</strong><br>
 Fakultas Kedokteran Universitas Sumatera Utara<br><br>
 <img src="/images/icons/book-and-person-winter-svgrepo-com.svg" class="icon-inline" alt=""> <a href="/ppds/persiapan">Baca Panduan →</a><br>
-<img src="/images/icons/question-square-svgrepo-com.svg" class="icon-inline" alt=""> <a href="/ppds/faq">FAQ</a> · <img src="/images/icons/phone-calling-svgrepo-com.svg" class="icon-inline" alt=""> <a href="/hubungi-admin">Hubungi Kami</a>
+<img src="/images/icons/question-square-svgrepo-com.svg" class="icon-inline" alt=""> <a href="/ppds/faq">FAQ</a> · <img src="/images/icons/phone-calling-svgrepo-com.svg" class="icon-inline" alt=""> <a href="/hubungi-admin">Hubungi Kami</a><br><br>
+<a href="https://lentera.puspenkomusu.com" target="_blank" class="cta-button-inline">
+  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+  Buka Aplikasi Lentera
+</a>
 </div>
 </div>
 
@@ -113,3 +124,11 @@ flowchart LR
 ## Butuh Bantuan?
 
 Kunjungi halaman [Hubungi Kami](/hubungi-admin) untuk mendapatkan bantuan.
+
+<div class="cta-section">
+<p>Sudah siap mendaftar? Langsung menuju aplikasi:</p>
+<a href="https://lentera.puspenkomusu.com" target="_blank" class="cta-button">
+  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+  Buka Aplikasi Lentera
+</a>
+</div>
