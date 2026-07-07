@@ -47,10 +47,10 @@ jobs:
 
       - name: 🚀 Deploy to Server
         run: |
-          rsync -az --delete \
+          rsync -avzr \
             -e "ssh -p ${{ secrets.PORT }} -o StrictHostKeyChecking=yes" \
-            docs/dist/ \
-            "${{ secrets.USERNAME }}@${{ secrets.HOST }}:${{ secrets.DIRECTORY }}/"
+            docs/.vitepress/dist/ \
+            "${{ secrets.USERNAME }}@${{ secrets.HOST }}:${{ secrets.DIRECTORY }}/dist/"
 
       - name: ✅ Deployment Finished
         run: echo "Deployment completed successfully."
