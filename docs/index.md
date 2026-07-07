@@ -1,0 +1,105 @@
+---
+layout: home
+
+hero:
+  name: "PUSPENKOM USU"
+  text: "Pusat Dokumentasi Pendaftaran Event Dan Konseling"
+  tagline: "Pilih event yang ingin Anda ikuti untuk melihat panduan pendaftaran lengkap."
+  image:
+    src: /images/hero-illustration.svg
+    alt: Ilustrasi Panduan
+  actions:
+    - theme: brand
+      text: Lihat Semua Event
+      link: #events
+    - theme: alt
+      text: Hubungi Kami
+      link: /hubungi-admin
+
+features:
+  - title: "PPDGS USU"
+    icon: "🦷"
+    details: "Program Pendidikan Dokter Gigi Spesialis - Universitas Sumatera Utara"
+    link: /ppdgs/persiapan
+  - title: "PPDS USU"
+    icon: "🩺"
+    details: "Program Pendidikan Dokter Spesialis - Universitas Sumatera Utara"
+    link: /ppds/persiapan
+  - title: "Event Lainnya"
+    icon: "📅"
+    details: "Panduan untuk event lain akan ditambahkan di sini"
+    link: "#"
+  - title: "Event Mendatang"
+    icon: "🚀"
+    details: "Pantau halaman ini untuk informasi event terbaru"
+    link: "#"
+---
+
+<div id="events" style="scroll-margin-top: 80px;"></div>
+
+## Daftar Event Tersedia
+
+<div class="grid-2">
+
+<div class="info-card success" onclick="window.location='/ppdgs/persiapan'" style="cursor:pointer">
+<div class="info-card-title">🦷 PPDGS USU</div>
+<div class="info-card-content">
+<strong>Program Pendidikan Dokter Gigi Spesialis</strong><br>
+Fakultas Kedokteran Gigi Universitas Sumatera Utara<br><br>
+📋 <a href="/ppdgs/persiapan">Baca Panduan →</a><br>
+📄 <a href="/ppdgs/faq">FAQ</a> · <a href="/hubungi-admin">Hubungi Kami</a>
+</div>
+</div>
+
+<div class="info-card success" onclick="window.location='/ppds/persiapan'" style="cursor:pointer">
+<div class="info-card-title">🩺 PPDS USU</div>
+<div class="info-card-content">
+<strong>Program Pendidikan Dokter Spesialis</strong><br>
+Fakultas Kedokteran Universitas Sumatera Utara<br><br>
+📋 <a href="/ppds/persiapan">Baca Panduan →</a><br>
+📄 <a href="/ppds/faq">FAQ</a> · <a href="/hubungi-admin">Hubungi Kami</a>
+</div>
+</div>
+
+<div class="info-card" style="opacity:0.6">
+<div class="info-card-title">📅 Event Lainnya</div>
+<div class="info-card-content">
+<em>Belum tersedia. Panduan untuk event lain akan ditambahkan kemudian.</em>
+</div>
+</div>
+
+</div>
+
+## Struktur URL Berdasarkan Event
+
+Setiap event memiliki URL sendiri:
+
+| Event | URL |
+|-------|-----|
+| **PPDGS USU** | `/ppdgs/` |
+| **PPDS USU** | `/ppds/` |
+| Event Mendatang | `/event-b/` |
+| Event Mendatang | `/event-c/` |
+
+## Cara Membaca Panduan
+
+1. Pilih event dari daftar di atas
+2. Ikuti panduan langkah demi langkah
+3. Gunakan fitur pencarian jika perlu
+4. Hubungi admin jika ada pertanyaan
+
+```mermaid
+flowchart LR
+    A[Pilih Event] --> B[Baca Panduan]
+    B --> C[Ikuti Langkah]
+    C --> D[Selesai]
+    
+    style A fill:#dbeafe,stroke:#2563eb,color:#0f172a
+    style B fill:#fef3c7,stroke:#d97706,color:#0f172a
+    style C fill:#dcfce7,stroke:#16a34a,color:#0f172a
+    style D fill:#f3e8ff,stroke:#9333ea,color:#0f172a
+```
+
+## Butuh Bantuan?
+
+Kunjungi halaman [Hubungi Kami](/hubungi-admin) untuk mendapatkan bantuan.

@@ -1,0 +1,16 @@
+{
+  "name": "ppdgs-usu-panduan",
+  "version": "1.0.0",
+  "description": "Panduan Peserta PPDGS USU",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "dependencies": {
+    "vitepress": "^1.3.0",
+    "vitepress-plugin-mermaid": "^2.0.0",
+    "mermaid": "^10.9.0"
+  }
+}
