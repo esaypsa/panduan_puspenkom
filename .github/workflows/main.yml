@@ -32,8 +32,8 @@ jobs:
 
       - name: 📂 Verify Build Output
         run: |
-          echo "Contents of docs/dist:"
-          ls -lah docs/dist
+          echo "Contents of docs/.vitepress/dist:"
+          ls -lah docs/.vitepress/dist
 
       - name: 🔑 Start SSH Agent
         uses: webfactory/ssh-agent@v0.9.0
