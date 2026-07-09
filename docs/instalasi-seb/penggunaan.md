@@ -59,7 +59,7 @@ Saat SEB aktif:
       <span class="faq-icon">&#9660;</span>
     </div>
     <div class="faq-answer">
-      <p>Download ulang file <code>P3MUSU-App.zip</code> dari halaman <a href="/instalasi-seb/">Panduan Instalasi</a>, ekstrak ulang file <code>p3musu.seb</code> ke Desktop.</p>
+      <p>Download ulang file dari halaman <a href="/instalasi-seb/">Panduan Instalasi</a> sesuai OS Anda, ekstrak dan salin file <code>p3musu.seb</code> ke Desktop.</p>
     </div>
   </div>
   <div class="faq-item">

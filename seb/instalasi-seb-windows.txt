@@ -1,0 +1,166 @@
+================================================================================
+                    PANDUAN INSTALASI SEB UNTUK WINDOWS
+                   Safe Exam Browser - Tes Psikologi Online
+================================================================================
+
+Panduan ini untuk peserta yang menggunakan Windows 7, 8, 8.1, atau 10.
+Ikuti langkah-langkah di bawah secara BERURUTAN.
+
+
+--------------------------------------------------------------------------------
+PRASYARAT SEBELUM MULAI
+--------------------------------------------------------------------------------
+
+Pastikan komputer Anda memenuhi spesifikasi berikut:
+
+  [v] OS: Windows 7, 8, 8.1, atau 10 (64-bit)
+  [v] Prosesor: Intel Core i3 1 GHz atau setara
+  [v] RAM: Minimal 8 GB
+  [v] Layar: Minimal 13 inch
+  [v] Penyimpanan: Tersedia minimal 1 GB ruang kosong
+  [v] Koneksi Internet: Stabil, minimal 10 Mbps
+  [v] Webcam & Mikrofon: Berfungsi dengan baik
+  [v] Hak Akses: Administrator (untuk instalasi)
+
+
+--------------------------------------------------------------------------------
+LANGKAH 1: DOWNLOAD FILE
+--------------------------------------------------------------------------------
+
+1. Buka link berikut di browser:
+   https://drive.google.com/file/d/1rP19a57WOEn3DAV3PW9Q8InSDpz1EclI/view
+
+2. Klik tombol Download untuk mengunduh file:
+   "PUSPENKOM - SEB.zip" (~334 MB)
+
+3. Simpan file di folder Downloads atau lokasi yang mudah ditemukan.
+
+   (Lihat gambar: seb-windows/download_SEB_file.png)
+
+CATATAN: File ini berukuran besar. Pastikan koneksi internet stabil selama
+proses download. Jika terputus, lanjutkan atau ulangi download.
+
+
+--------------------------------------------------------------------------------
+LANGKAH 2: UNINSTALL APLIKASI YANG BERTENTANGAN (JIKA ADA)
+--------------------------------------------------------------------------------
+
+PENTING: Jika komputer Anda memiliki aplikasi berikut, WAJIB uninstall dulu:
+  - Zoom Meeting
+  - Skype
+  - Cisco Webex
+
+Cara uninstall:
+  1. Buka Control Panel > Programs and Features
+     (atau Settings > Apps di Windows 10)
+  2. Cari aplikasi di atas di daftar
+  3. Klik kanan > pilih Uninstall
+  4. Ikuti wizard hingga selesai
+
+
+--------------------------------------------------------------------------------
+LANGKAH 3: EKSTRAK FILE ZIP
+--------------------------------------------------------------------------------
+
+1. Cari file "PUSPENKOM - SEB.zip" yang sudah diunduh
+2. Klik kanan > pilih "Extract All..." (bawaan Windows)
+   atau gunakan WinRAR / 7-Zip
+3. Tentukan lokasi ekstrak (biarkan default)
+4. Klik Extract dan tunggu hingga selesai
+5. Setelah selesai, akan muncul folder baru berisi:
+   - SEB_v3.10.1.864.exe  --> Installer SEB
+   - puspenkom-config.seb           --> File konfigurasi tes
+
+   (Lihat gambar: seb-windows/Extract_SEB_file.png)
+
+
+--------------------------------------------------------------------------------
+LANGKAH 4: INSTALL SEB
+--------------------------------------------------------------------------------
+
+1. Buka folder hasil ekstrak
+2. Klik dua kali file SEB_v3.10.1.864.exe
+   (Jika tidak bisa, klik kanan > Run as Administrator)
+
+   (Lihat gambar: seb-windows/run_installer_3.10.1.864.png)
+
+3. Ikuti wizard instalasi:
+   - "Welcome to Safe Exam Browser" > Klik Next
+   - "License Agreement" > centang "I accept..." > Klik Next
+   - "Ready to Install" > Klik Install
+
+4. Tunggu proses instalasi hingga selesai
+
+   (Lihat gambar: seb-windows/installer_processing.png)
+
+5. Klik Finish
+
+   (Lihat gambar: seb-windows/installation_success.png)
+
+SEB sekarang sudah terinstal di komputer Anda.
+
+
+--------------------------------------------------------------------------------
+LANGKAH 5: SIAPKAN FILE KONFIGURASI
+--------------------------------------------------------------------------------
+
+1. Buka folder hasil ekstrak dari Langkah 3
+2. Cari file "puspenkom-config.seb"
+3. SALIN atau PINDAHKAN file tersebut ke Desktop
+   (agar mudah diakses saat tes)
+
+
+--------------------------------------------------------------------------------
+LANGKAH 6: VERIFIKASI INSTALASI
+--------------------------------------------------------------------------------
+
+1. Pastikan komputer terhubung ke internet
+2. Klik dua kali file "puspenkom-config.seb" di Desktop
+
+   (Lihat gambar: seb-windows/run_puspenkom-config_seb.png)
+
+3. SEB akan terbuka dan menampilkan form login aplikasi CBT
+
+   (Lihat gambar: seb-windows/cbt_apps_login_page.png)
+
+4. Jika form login muncul --> INSTALASI BERHASIL
+
+Untuk keluar dari SEB, klik ikon Quit SEB di pojok kanan bawah.
+
+
+--------------------------------------------------------------------------------
+TROUBLESHOOTING
+--------------------------------------------------------------------------------
+
+Masalah: File ZIP tidak bisa diekstrak
+Solusi : Pastikan file terunduh sempurna. Coba download ulang.
+
+Masalah: Installer tidak bisa dibuka
+Solusi : Klik kanan > Run as Administrator
+
+Masalah: Antivirus memblokir SEB
+Solusi : Tambahkan SEB ke daftar exception antivirus.
+         Matikan sementara antivirus jika perlu.
+
+Masalah: File .seb tidak ditemukan
+Solusi : File "puspenkom-config.seb" ada di dalam folder hasil ekstrak
+         "PUSPENKOM - SEB.zip".
+
+Masalah: SEB error "Corrupt config file"
+Solusi : Download ulang file "PUSPENKOM - SEB.zip" dan ekstrak ulang.
+
+Masalah: Form login tidak muncul
+Solusi : Pastikan koneksi internet aktif. Coba klik ganda file
+         "puspenkom-config.seb" kembali.
+
+
+--------------------------------------------------------------------------------
+BANTUAN
+--------------------------------------------------------------------------------
+
+Jika masih mengalami kendala, hubungi technical support via WhatsApp
+(sertakan screenshot error) pada pukul 10.00 - 17.00 WIB.
+
+================================================================================
+                           --- SELAMAT MENCOBA ---
+================================================================================

@@ -9,11 +9,11 @@ Panduan ini berisi persyaratan perangkat, unduhan, dan langkah instalasi aplikas
 ```mermaid
 flowchart LR
     A[Cek Persyaratan] --> B{OS?}
-    B -->|Windows| C[Download P3M-Addon.zip]
+    B -->|Windows| C[Download PUSPENKOM - SEB.zip]
     B -->|macOS| D[Download mac-seb.zip]
-    C --> E[Install SEB v3.10]
+    C --> E[Install SEB]
     D --> F[Install SEB via .dmg]
-    E --> G[Drag .seb ke Desktop]
+    E --> G[Jalankan .seb]
     F --> H[Jalankan App-Runner]
     G --> I[Verifikasi & Siap Tes]
     H --> I
@@ -66,15 +66,10 @@ Peserta pengguna <strong>Windows</strong> lanjut ke card Windows di bawah. Peser
 <div class="info-card info">
 <div class="info-card-title"><img src="/images/icons/microsoft-svgrepo-com.svg" class="icon-inline" alt=""> Download SEB — Windows</div>
 <div class="info-card-content">
-<p><strong>File 1:</strong> P3M-Addon.zip (~334 MB)</p>
+<p><strong>File:</strong> PUSPENKOM - SEB.zip (~334 MB)</p>
 <ul>
-  <li><strong>Isi:</strong> Aplikasi SEB v3.10</li>
-  <li><a href="https://drive.google.com/file/d/1ZbS9EoMto0wsPQaZs6pbAKXhz5resOW3/view?usp=drive_link" target="_blank">⬇️ Download P3M-Addon.zip</a></li>
-</ul>
-<p><strong>File 2:</strong> P3MUSU-App.zip (~4 KB)</p>
-<ul>
-  <li><strong>Isi:</strong> File konfigurasi P3MUSU-App.seb</li>
-  <li><a href="https://drive.google.com/file/d/1J9abwGw7B0t1BhM_bJcDE8kDSxRmVAgS/view?usp=drive_link" target="_blank">⬇️ Download P3MUSU-App.zip</a></li>
+  <li><strong>Isi:</strong> Aplikasi SEB + File konfigurasi (.seb)</li>
+  <li><a href="https://drive.google.com/file/d/1rP19a57WOEn3DAV3PW9Q8InSDpz1EclI/view?usp=drive_link" target="_blank">⬇️ Download PUSPENKOM - SEB.zip</a></li>
 </ul>
 </div>
 </div>
@@ -101,9 +96,9 @@ Peserta pengguna <strong>Windows</strong> lanjut ke card Windows di bawah. Peser
 | Langkah | Windows | macOS |
 |---------|---------|-------|
 | 1 | Uninstall aplikasi lama (Zoom, Skype, dll) | Uninstall aplikasi lama (Zoom, Skype, dll) |
-| 2 | Ekstrak P3M-Addon.zip → SEB_v3.10.exe | Ekstrak mac-seb.zip → SafeExamBrowser-3.6.1.dmg |
-| 3 | Jalankan installer SEB_v3.10.exe | Buka .dmg → drag SEB ke Applications |
-| 4 | Ekstrak P3MUSU-App.zip → .seb di Desktop | Ekstrak P3MUSU-App.zip → .seb di Desktop |
+| 2 | Download & ekstrak PUSPENKOM - SEB.zip | Ekstrak mac-seb.zip → SafeExamBrowser-3.6.1.dmg |
+| 3 | Jalankan installer SEB_v3.10.1.864.exe | Buka .dmg → drag SEB ke Applications |
+| 4 | Pindahkan file .seb ke Desktop | Ekstrak P3MUSU-App.zip → .seb di Desktop |
 | 5 | Verifikasi: jalankan file .seb | Jalankan App-Runner → izinkan Gatekeeper |
 | 6 | Siap tes! | Siap tes! |
 

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450">
+  <rect width="600" height="450" fill="#f8fafc"/>
+  <rect x="30" y="20" width="540" height="410" rx="8" fill="#fff" stroke="#e2e8f0" stroke-width="2"/>
+  <rect x="30" y="20" width="540" height="35" rx="8" fill="#1e293b"/>
+  <circle cx="55" cy="38" r="5" fill="#ef4444"/>
+  <circle cx="73" cy="38" r="5" fill="#f59e0b"/>
+  <circle cx="91" cy="38" r="5" fill="#22c55e"/>
+  <text x="300" y="43" text-anchor="middle" font-family="Segoe UI,Arial" font-size="11" fill="#94a3b8">File Explorer</text>
+  <rect x="50" y="70" width="500" height="30" rx="4" fill="#f1f5f9"/>
+  <text x="60" y="90" font-family="Segoe UI,Arial" font-size="12" fill="#475569">📁 Downloads</text>
+  <rect x="50" y="110" width="500" height="40" rx="4" fill="#fff" stroke="#3b82f6" stroke-width="2"/>
+  <rect x="55" y="115" width="32" height="32" rx="4" fill="#eab308"/>
+  <text x="72" y="134" text-anchor="middle" font-family="Segoe UI,Arial" font-size="14" fill="#fff">Z</text>
+  <text x="95" y="135" font-family="Segoe UI,Arial" font-size="13" fill="#0f172a" font-weight="bold">PUSPENKOM - SEB.zip</text>
+  <text x="420" y="135" font-family="Segoe UI,Arial" font-size="11" fill="#64748b">334,567 KB</text>
+  <rect x="100" y="300" width="200" height="40" rx="6" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="200" y="325" text-anchor="middle" font-family="Segoe UI,Arial" font-size="13" fill="#0f172a">Extract All...</text>
+  <rect x="100" y="340" width="200" height="30" rx="4" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="200" y="360" text-anchor="middle" font-family="Segoe UI,Arial" font-size="12" fill="#64748b">Open</text>
+  <rect x="100" y="370" width="200" height="30" rx="4" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="200" y="390" text-anchor="middle" font-family="Segoe UI,Arial" font-size="12" fill="#64748b">Open With</text>
+  <rect x="310" y="340" width="80" height="30" rx="4" fill="#3b82f6"/>
+  <text x="350" y="360" text-anchor="middle" font-family="Segoe UI,Arial" font-size="12" font-weight="bold" fill="#fff">Extract</text>
+  <rect x="310" y="370" width="80" height="30" rx="4" fill="#e2e8f0"/>
+  <text x="350" y="390" text-anchor="middle" font-family="Segoe UI,Arial" font-size="12" fill="#64748b">Cancel</text>
+</svg>

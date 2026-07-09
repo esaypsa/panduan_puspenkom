@@ -4,13 +4,13 @@ outline: deep
 
 # Instalasi Perangkat Tes Psikologi — Windows
 
-Panduan ini untuk peserta yang menggunakan **Windows 7, 8, 8.1, atau 10**. Ikuti langkah-langkah di bawah secara **berurutan**.
+Panduan ini untuk peserta yang menggunakan **Windows 10 atau 11**. Ikuti langkah-langkah di bawah secara **berurutan**.
 
 ```mermaid
 flowchart LR
-    A[Uninstall Aplikasi Lama] --> B[Ekstrak P3M-Addon.zip]
-    B --> C[Install SEB v3.10]
-    C --> D[Ekstrak P3MUSU-App.zip]
+    A[Uninstall Aplikasi Lama] --> B[Download PUSPENKOM - SEB.zip]
+    B --> C[Ekstrak ZIP]
+    C --> D[Install SEB]
     D --> E[Jalankan .seb]
     E --> F[Verifikasi & Selesai]
 ```
@@ -21,7 +21,7 @@ flowchart LR
 
 | Komponen | Minimum |
 |----------|---------|
-| OS | Windows 7, 8, 8.1, atau 10 (64-bit) |
+| OS | Windows 10 atau 11 (64-bit) |
 | Prosesor | Intel Core i3 1 GHz atau setara |
 | RAM | **8 GB** |
 | Layar | 13 inch |
@@ -34,14 +34,19 @@ flowchart LR
 
 ## 2. Download File
 
-Unduh **kedua file** berikut dari halaman [Panduan Instalasi](/instalasi-seb/):
+Unduh file berikut dari halaman [Panduan Instalasi](/instalasi-seb/):
 
 | File | Isi | Ukuran |
 |------|-----|--------|
-| [`P3M-Addon.zip`](https://drive.google.com/file/d/1ZbS9EoMto0wsPQaZs6pbAKXhz5resOW3/view?usp=drive_link) | Aplikasi SEB v3.10 | ~334 MB |
-| [`P3MUSU-App.zip`](https://drive.google.com/file/d/1J9abwGw7B0t1BhM_bJcDE8kDSxRmVAgS/view?usp=drive_link) | File konfigurasi .seb | ~4 KB |
+| [`PUSPENKOM - SEB.zip`](https://drive.google.com/file/d/1rP19a57WOEn3DAV3PW9Q8InSDpz1EclI/view?usp=drive_link) | Aplikasi SEB + File konfigurasi | ~334 MB |
 
-Simpan kedua file di lokasi yang mudah ditemukan (misalnya folder **Downloads**).
+Simpan file di lokasi yang mudah ditemukan (misalnya folder **Downloads**).
+
+![Download File](/images/instalasi-seb/download_SEB_file.png)
+
+::: warning
+File ini berukuran besar (~334 MB). Pastikan koneksi internet stabil selama proses download. Jika terputus, lanjutkan download atau ulangi dari awal.
+:::
 
 ---
 
@@ -57,63 +62,61 @@ Simpan kedua file di lokasi yang mudah ditemukan (misalnya folder **Downloads**)
 
 ---
 
-## 4. Ekstrak P3M-Addon.zip
+## 4. Ekstrak PUSPENKOM - SEB.zip
 
-1. Cari file `P3M-Addon.zip` yang sudah diunduh
-2. Klik kanan → pilih **Extract All...** (bawaan Windows) atau gunakan WinRAR / 7-Zip / WinZip
+1. Cari file `PUSPENKOM - SEB.zip` yang sudah diunduh
+2. Klik kanan → pilih **Extract All...** (bawaan Windows) atau gunakan WinRAR / 7-Zip
 3. Tentukan lokasi ekstrak (biarkan default atau pilih folder yang mudah diakses)
 4. Klik **Extract** dan tunggu hingga selesai
-5. Setelah selesai, akan muncul folder baru berisi file `SEB_v3.10.exe`
+5. Setelah selesai, akan muncul folder baru berisi:
+   - `SEB_3.10.1.864_SetupBundle.exe` — Installer SEB
+   - `puspenkom-config.seb` — File konfigurasi tes
 
-![Ekstrak ZIP](/images/instalasi-seb/seb-installer-win-1.svg)
-
----
-
-## 5. Install SEB v3.10
-
-1. Buka folder hasil ekstrak, klik dua kali file **`SEB_v3.10.exe`**
-
-   ![File SEB_v3.10.exe](/images/instalasi-seb/seb-installer-win-1.svg)
-
-2. Akan muncul jendela **Welcome to Safe Exam Browser** → klik **Next**
-
-   ![Welcome SEB](/images/instalasi-seb/seb-installer-win-1.svg)
-
-3. Baca lisensi, klik **I accept the terms...** → klik **Next**
-
-   ![License Agreement](/images/instalasi-seb/seb-installer-win-2.svg)
-
-4. Akan muncul jendela **Ready to Install the Program** → klik **Install**
-
-   ![Ready to Install](/images/instalasi-seb/seb-installer-win-3.svg)
-
-5. Tunggu proses instalasi hingga selesai
-
-   ![Installing](/images/instalasi-seb/seb-installer-win-4.svg)
-
-6. Klik **Finish** — SEB v3.10 sekarang terinstal
-
-   ![Installation Complete](/images/instalasi-seb/seb-installer-win-5.svg)
+![Ekstrak ZIP](/images/instalasi-seb/Extract_SEB_file.png)
 
 ---
 
-## 6. Ekstrak P3MUSU-App.zip
+## 5. Install SEB
 
-1. Cari file `P3MUSU-App.zip` yang sudah diunduh
-2. Ekstrak isinya — kami sarankan ekstrak ke **Desktop** agar mudah diakses saat tes
-3. Setelah diekstrak, akan muncul file **`p3musu.seb`** di Desktop
+1. Buka folder hasil ekstrak, klik dua kali file **`SEB_3.10.1.864_SetupBundle.exe`**
 
-![File .seb di Desktop](/images/instalasi-seb/seb-desktop-icon.svg)
+   ![Run Installer](/images/instalasi-seb/run_installer_3.10.1.864.png)
+
+2. Ikuti wizard instalasi:
+   - **Welcome** → klik **Next**
+   - **License Agreement** → centang **I accept...** → klik **Next**
+   - **Ready to Install** → klik **Install**
+
+3. Tunggu proses instalasi hingga selesai
+
+   ![Installing](/images/instalasi-seb/installer_processing.png)
+
+4. Klik **Close** — SEB sekarang terinstal
+
+   ![Installation Complete](/images/instalasi-seb/installation_success.png)
+
+---
+
+## 6. Siapkan File Konfigurasi
+
+File `puspenkom-config.seb` sudah tersedia di folder hasil ekstrak. **Pindahkan** atau **salin** file tersebut ke **Desktop** agar mudah diakses saat tes.
+
+::: tip
+Simpan file `.seb` di Desktop karena Anda akan mengkliknya saat tes dimulai.
+:::
 
 ---
 
 ## 7. Verifikasi Instalasi
 
 1. Pastikan komputer terhubung ke **internet**
-2. Klik dua kali file **`p3musu.seb`** di Desktop
+2. Klik dua kali file **`puspenkom-config.seb`** di Desktop
+
+   ![Jalankan .seb](/images/instalasi-seb/run_puspenkom-config_seb.png)
+
 3. SEB akan terbuka dan menampilkan **form login aplikasi CBT**
 
-   ![Form Login CBT](/images/instalasi-seb/seb-quiz.svg)
+   ![Form Login CBT](/images/instalasi-seb/cbt_apps_login_page.png)
 
 4. Jika form login muncul, instalasi **berhasil** ✅
 5. Klik ikon **Quit SEB** (pojok kanan bawah) untuk keluar
@@ -127,8 +130,8 @@ Simpan kedua file di lokasi yang mudah ditemukan (misalnya folder **Downloads**)
 | File ZIP tidak bisa diekstrak | Pastikan file terunduh sempurna. Coba download ulang. |
 | Installer tidak bisa dibuka | Klik kanan → **Run as Administrator** |
 | Antivirus memblokir SEB | Tambahkan SEB ke daftar **exception** antivirus. Matikan sementara antivirus jika perlu. |
-| File .seb tidak muncul setelah ekstrak | Pastikan Anda mengekstrak `P3MUSU-App.zip`, bukan file lain. |
-| SEB error "Corrupt config file" | Download ulang file `P3MUSU-App.zip` dan ekstrak ulang. |
-| Form login tidak muncul | Pastikan koneksi internet aktif. Coba jalankan ulang file .seb. |
+| File .seb tidak ditemukan | File `puspenkom-config.seb` ada di dalam folder hasil ekstrak `PUSPENKOM - SEB.zip`. |
+| SEB error "Corrupt config file" | Download ulang file `PUSPENKOM - SEB.zip` dan ekstrak ulang. |
+| Form login tidak muncul | Pastikan koneksi internet aktif. Coba klik ganda file `puspenkom-config.seb` kembali. |
 
 Untuk masalah lain, hubungi **technical support** via **WhatsApp** (sertakan screenshot) pukul 10.00 – 17.00 WIB, atau melalui halaman [Hubungi Kami](/hubungi-admin).
