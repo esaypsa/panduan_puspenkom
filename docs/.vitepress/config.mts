@@ -79,6 +79,7 @@ export default withMermaid(
             items: [
               { text: "Panduan & Persyaratan", link: "/instalasi-seb/" },
               { text: "Instalasi Windows", link: "/instalasi-seb/instalasi-windows" },
+              { text: "Instalasi macOS", link: "/instalasi-seb/instalasi-macos" },
               { text: "Penggunaan & Troubleshooting", link: "/instalasi-seb/penggunaan" },
             ],
           },

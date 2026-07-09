@@ -8,12 +8,15 @@ Panduan ini berisi persyaratan perangkat, unduhan, dan langkah instalasi aplikas
 
 ```mermaid
 flowchart LR
-    A[Cek Persyaratan] --> B[Download File dari Email]
-    B --> C[Uninstall Aplikasi Lama]
-    C --> D[Install SEB v3.10]
-    D --> E[Ekstrak file .seb]
-    E --> F[Verifikasi Instalasi]
-    F --> G[Siap Tes!]
+    A[Cek Persyaratan] --> B{OS?}
+    B -->|Windows| C[Download P3M-Addon.zip]
+    B -->|macOS| D[Download mac-seb.zip]
+    C --> E[Install SEB v3.10]
+    D --> F[Install SEB via .dmg]
+    E --> G[Drag .seb ke Desktop]
+    F --> H[Jalankan App-Runner]
+    G --> I[Verifikasi & Siap Tes]
+    H --> I
 ```
 
 ---
@@ -24,7 +27,7 @@ flowchart LR
 <div class="info-card-title">⚠️ Spesifikasi Minimum Komputer</div>
 <div class="info-card-content">
 <ul>
-  <li><strong>Sistem Operasi:</strong> Windows 7, 8, 8.1, atau 10 (64-bit)</li>
+  <li><strong>Sistem Operasi:</strong> Windows 7, 8, 8.1, atau 10 (64-bit) <em>atau</em> macOS 11 (Big Sur)+</li>
   <li><strong>Prosesor:</strong> Minimal Intel Core i3 1 GHz atau setara</li>
   <li><strong>RAM:</strong> Minimal <strong>8 GB</strong></li>
   <li><strong>Layar:</strong> Minimal 13 inch</li>
@@ -47,30 +50,42 @@ flowchart LR
 
 ---
 
-## Download File
+## Download SEB
 
-Unduh **kedua file** berikut untuk memulai instalasi:
+Safe Exam Browser (SEB) tersedia untuk **Windows** dan **macOS**. Pilih file sesuai sistem operasi Anda:
+
+<div class="info-card success">
+<div class="info-card-title">ℹ️ SEB Mendukung Windows & macOS</div>
+<div class="info-card-content">
+Peserta pengguna <strong>Windows</strong> lanjut ke card Windows di bawah. Peserta pengguna <strong>macOS</strong> (Intel & Apple Silicon M1/M2/M3) lanjut ke card macOS.
+</div>
+</div>
 
 <div class="grid-2">
 
 <div class="info-card info">
-<div class="info-card-title">📦 File 1: P3M-Addon.zip</div>
+<div class="info-card-title"><img src="/images/icons/microsoft-svgrepo-com.svg" class="icon-inline" alt=""> Download SEB — Windows</div>
 <div class="info-card-content">
+<p><strong>File 1:</strong> P3M-Addon.zip (~334 MB)</p>
 <ul>
   <li><strong>Isi:</strong> Aplikasi SEB v3.10</li>
-  <li><strong>Ukuran:</strong> ~334 MB</li>
   <li><a href="https://drive.google.com/file/d/1ZbS9EoMto0wsPQaZs6pbAKXhz5resOW3/view?usp=drive_link" target="_blank">⬇️ Download P3M-Addon.zip</a></li>
+</ul>
+<p><strong>File 2:</strong> P3MUSU-App.zip (~4 KB)</p>
+<ul>
+  <li><strong>Isi:</strong> File konfigurasi P3MUSU-App.seb</li>
+  <li><a href="https://drive.google.com/file/d/1J9abwGw7B0t1BhM_bJcDE8kDSxRmVAgS/view?usp=drive_link" target="_blank">⬇️ Download P3MUSU-App.zip</a></li>
 </ul>
 </div>
 </div>
 
 <div class="info-card info">
-<div class="info-card-title">📦 File 2: P3MUSU-App.zip</div>
+<div class="info-card-title"><img src="/images/icons/apple-black-logo-svgrepo-com.svg" style="width:22px;height:22px;vertical-align:middle" alt=""> Download SEB — macOS</div>
 <div class="info-card-content">
+<p><strong>file:</strong> mac-seb.zip (~14 MB)</p>
 <ul>
-  <li><strong>Isi:</strong> File konfigurasi P3MUSU-App.seb</li>
-  <li><strong>Ukuran:</strong> ~4 KB</li>
-  <li><a href="https://drive.google.com/file/d/1J9abwGw7B0t1BhM_bJcDE8kDSxRmVAgS/view?usp=drive_link" target="_blank">⬇️ Download P3MUSU-App.zip</a></li>
+  <li><strong>Isi:</strong> Installer SEB + App-Runner + file .seb</li>
+  <li><a href="https://drive.google.com/file/d/1QX9qKeT2vcNboNfX5E04mEhZfCrt9yer/view?usp=drive_link" target="_blank">⬇️ Download mac-seb.zip</a></li>
 </ul>
 </div>
 </div>
@@ -83,14 +98,14 @@ Unduh **kedua file** berikut untuk memulai instalasi:
 
 ## Ringkasan Langkah Instalasi
 
-| Langkah | Kegiatan | Detail |
-|---------|----------|--------|
-| 1 | Uninstall aplikasi lama | Zoom, Skype, Cisco Webex (jika ada) |
-| 2 | Ekstrak P3M-Addon.zip | Ambil file SEB_v3.10.exe |
-| 3 | Install SEB v3.10 | Jalankan installer, ikuti wizard |
-| 4 | Ekstrak P3MUSU-App.zip | Letakkan .seb di Desktop |
-| 5 | Verifikasi | Jalankan .seb, pastikan form login muncul |
-| 6 | Siap tes! | Hubungi panitia jika ada kendala |
+| Langkah | Windows | macOS |
+|---------|---------|-------|
+| 1 | Uninstall aplikasi lama (Zoom, Skype, dll) | Uninstall aplikasi lama (Zoom, Skype, dll) |
+| 2 | Ekstrak P3M-Addon.zip → SEB_v3.10.exe | Ekstrak mac-seb.zip → SafeExamBrowser-3.6.1.dmg |
+| 3 | Jalankan installer SEB_v3.10.exe | Buka .dmg → drag SEB ke Applications |
+| 4 | Ekstrak P3MUSU-App.zip → .seb di Desktop | Ekstrak P3MUSU-App.zip → .seb di Desktop |
+| 5 | Verifikasi: jalankan file .seb | Jalankan App-Runner → izinkan Gatekeeper |
+| 6 | Siap tes! | Siap tes! |
 
 ---
 
@@ -128,4 +143,9 @@ Unduh **kedua file** berikut untuk memulai instalasi:
 
 Jika mengalami kendala saat instalasi, hubungi **technical support** melalui **WhatsApp** (sertakan screenshot masalah) pada pukul 10.00 – 17.00 WIB, atau melalui halaman [Hubungi Kami](/hubungi-admin).
 
-[⬇️ Lanjut ke Panduan Instalasi Windows →](/instalasi-seb/instalasi-windows)
+Pilih panduan sesuai sistem operasi Anda:
+
+| OS | Panduan Lengkap |
+|----|----------------|
+| <img src="/images/icons/microsoft-svgrepo-com.svg" class="icon-inline" alt=""> Windows | [⬇️ Panduan Instalasi Windows →](/instalasi-seb/instalasi-windows) |
+| <img src="/images/icons/apple-logo-svgrepo-com.svg" class="icon-inline" alt=""> macOS | [⬇️ Panduan Instalasi macOS →](/instalasi-seb/instalasi-macos) |

@@ -83,12 +83,12 @@ Fakultas Kedokteran Universitas Sumatera Utara<br><br>
 </div>
 
 <div class="info-card warning" onclick="window.location='/instalasi-seb/'" style="cursor:pointer">
-<div class="info-card-title"><img src="/images/icons/desktop-computer-svgrepo-com.svg" alt=""> Instalasi SEB (Windows)</div>
+<div class="info-card-title"><img src="/images/icons/desktop-computer-svgrepo-com.svg" alt=""> Instalasi SEB (Windows & macOS)</div>
 <div class="info-card-content">
 <strong>Panduan Instalasi Perangkat Tes Psikologi</strong><br>
-Safe Exam Browser wajib diinstal sebelum tes — panduan untuk Windows<br><br>
+Safe Exam Browser wajib diinstal sebelum tes — panduan untuk Windows dan macOS<br><br>
 <img src="/images/icons/book-and-person-winter-svgrepo-com.svg" class="icon-inline" alt=""> <a href="/instalasi-seb/">Lihat Panduan Instalasi →</a><br>
-<img src="/images/icons/windows-logo-svgrepo-com.svg" class="icon-inline" alt=""> <a href="/instalasi-seb/instalasi-windows">Windows</a> · <img src="/images/icons/question-square-svgrepo-com.svg" class="icon-inline" alt=""> <a href="/instalasi-seb/penggunaan">Troubleshooting</a>
+<img src="/images/icons/microsoft-svgrepo-com.svg" class="icon-inline" alt=""> <a href="/instalasi-seb/instalasi-windows">Windows</a> · <img src="/images/icons/apple-black-logo-svgrepo-com.svg" style="width:1em;height:1em;vertical-align:-0.125em;display:inline-block;margin-right:3px" alt=""> <a href="/instalasi-seb/instalasi-macos">macOS</a> · <img src="/images/icons/question-square-svgrepo-com.svg" class="icon-inline" alt=""> <a href="/instalasi-seb/penggunaan">Troubleshooting</a>
 </div>
 </div>
 
