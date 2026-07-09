@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450">
+  <rect width="600" height="450" fill="#f8fafc"/>
+  <rect x="50" y="30" width="500" height="390" rx="8" fill="#fff" stroke="#e2e8f0" stroke-width="2"/>
+  <rect x="50" y="30" width="500" height="40" rx="8" fill="#1e293b"/>
+  <circle cx="75" cy="50" r="6" fill="#ef4444"/>
+  <circle cx="95" cy="50" r="6" fill="#f59e0b"/>
+  <circle cx="115" cy="50" r="6" fill="#22c55e"/>
+  <text x="300" y="55" text-anchor="middle" font-family="Arial" font-size="12" fill="#94a3b8">SEB 3.x Setup</text>
+  <text x="300" y="130" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold" fill="#0f172a">Choose Install Location</text>
+  <text x="300" y="160" text-anchor="middle" font-family="Arial" font-size="13" fill="#64748b">Select the folder to install Safe Exam Browser in:</text>
+  <rect x="80" y="190" width="440" height="40" rx="4" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="100" y="215" font-family="Arial" font-size="13" fill="#0f172a">C:\Program Files\Safe Exam Browser</text>
+  <rect x="460" y="192" width="50" height="36" rx="4" fill="#e2e8f0"/>
+  <text x="485" y="215" text-anchor="middle" font-family="Arial" font-size="12" fill="#475569">Browse</text>
+  <text x="100" y="260" font-family="Arial" font-size="11" fill="#64748b">Space required: 200 MB</text>
+  <text x="100" y="280" font-family="Arial" font-size="11" fill="#64748b">Space available: 150 GB</text>
+  <rect x="300" y="360" width="120" height="35" rx="6" fill="#0f62fe"/>
+  <text x="360" y="383" text-anchor="middle" font-family="Arial" font-size="13" font-weight="bold" fill="#fff">Install</text>
+  <rect x="190" y="360" width="100" height="35" rx="6" fill="#e2e8f0"/>
+  <text x="240" y="383" text-anchor="middle" font-family="Arial" font-size="13" fill="#64748b">Cancel</text>
+</svg>

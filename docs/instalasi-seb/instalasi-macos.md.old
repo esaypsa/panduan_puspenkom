@@ -1,0 +1,94 @@
+---
+outline: deep
+---
+
+# Instalasi Safe Exam Browser — macOS
+
+Panduan ini untuk peserta yang menggunakan **macOS** (Intel & Apple Silicon M1/M2/M3).
+
+```mermaid
+flowchart LR
+    A[Download .dmg] --> B[Buka .dmg]
+    B --> C[Drag ke Applications]
+    C --> D[Buka SEB]
+    D --> E[Izinkan Gatekeeper]
+    E --> F[Download file .seb]
+    F --> G[Buka .seb → Siap!]
+```
+
+---
+
+## 1. Persyaratan Sistem
+
+| Komponen | Minimum |
+|----------|---------|
+| OS | macOS 11 (Big Sur) atau lebih baru |
+| RAM | 4 GB |
+| Penyimpanan | 200 MB free |
+| Koneksi | Internet |
+| Kompatibilitas | Intel & Apple Silicon (M1/M2/M3) |
+
+---
+
+## 2. Download SEB untuk macOS
+
+[🌐 Download SEB untuk macOS](https://download.safeexambrowser.org/releases/SEB_3.5.0.558.dmg)
+
+Atau kunjungi: [safeexambrowser.org/download_en.html](https://safeexambrowser.org/download_en.html)
+
+File yang terunduh: `SEB_3.5.0.558.dmg`
+
+![Halaman Download SEB](/images/instalasi-seb/seb-download-page.svg)
+
+---
+
+## 3. Install SEB
+
+Buka file `.dmg` yang sudah diunduh — akan muncul jendela seperti ini:
+
+![Disk Image SEB](/images/instalasi-seb/seb-mac-dmg.svg)
+
+**Drag ikon SEB** ke folder **Applications**.
+
+![Drag ke Applications](/images/instalasi-seb/seb-mac-dmg.svg)
+
+Tunggu hingga proses copy selesai. SEB sekarang ada di folder Applications.
+
+---
+
+## 4. Buka SEB dari Launchpad
+
+Buka **Launchpad** → cari **Safe Exam Browser** → klik untuk membuka.
+
+Pertama kali membuka, macOS akan menampilkan **peringatan Gatekeeper** karena SEB bukan dari App Store.
+
+![Gatekeeper Warning](/images/instalasi-seb/seb-mac-gatekeeper.svg)
+
+Klik **Open** atau **Buka** (jika tidak muncul, cek **System Settings > Privacy & Security**).
+
+---
+
+## 5. Download File .seb
+
+Setelah SEB berhasil dibuka (minimal sekali), download file konfigurasi `.seb`:
+
+[📥 Download File .seb untuk macOS](/files/seb/seb-config-mac.seb)
+
+---
+
+## 6. Jalankan SEB
+
+Klik dua kali file `.seb` → SEB akan otomatis terbuka dan menampilkan halaman login aplikasi CBT.
+
+---
+
+## Troubleshooting — macOS
+
+| Masalah | Solusi |
+|---------|--------|
+| "SEB cannot be opened because the developer cannot be verified" | Buka **System Settings → Privacy & Security** → cari pemberitahuan SEB → klik **Open Anyway** |
+| SEB tidak merespon setelah dibuka | Force quit (Cmd+Option+Esc), buka ulang dengan .seb file |
+| File .seb tidak terbuka | Pastikan SEB sudah dibuka minimal sekali sebelum double-click .seb |
+| Error "damaged" pada .dmg | Download ulang file .dmg |
+
+Untuk masalah lain, hubungi [Hubungi Kami](/hubungi-admin).

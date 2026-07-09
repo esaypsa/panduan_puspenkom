@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400">
+  <rect width="720" height="400" fill="#f8fafc"/>
+  <rect x="0" y="0" width="720" height="30" fill="#0f62fe"/>
+  <text x="100" y="20" font-family="Arial" font-size="12" fill="#fff">SEB - Locked Mode</text>
+  <circle cx="690" cy="15" r="6" fill="#ef4444"/>
+  <rect x="60" y="60" width="600" height="300" rx="8" fill="#fff" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="360" y="130" text-anchor="middle" font-family="Arial" font-size="24" font-weight="bold" fill="#0f172a">Aplikasi CBT Psikologi</text>
+  <rect x="200" y="160" width="320" height="40" rx="6" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="360" y="185" text-anchor="middle" font-family="Arial" font-size="14" fill="#64748b">Masukkan Username</text>
+  <rect x="200" y="215" width="320" height="40" rx="6" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="360" y="240" text-anchor="middle" font-family="Arial" font-size="14" fill="#64748b">Masukkan Password</text>
+  <rect x="260" y="280" width="200" height="40" rx="6" fill="#0f62fe"/>
+  <text x="360" y="306" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold" fill="#fff">Login</text>
+  <rect x="0" y="380" width="720" height="20" fill="#1e293b"/>
+  <text x="360" y="394" text-anchor="middle" font-family="Arial" font-size="10" fill="#64748b">Safe Exam Browser - Kiosk Mode Active</text>
+</svg>

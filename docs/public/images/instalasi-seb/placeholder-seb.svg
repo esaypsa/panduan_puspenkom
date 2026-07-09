@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#f0f4f8"/>
+  <text x="300" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#64748b">Placeholder: Screenshot SEB</text>
+  <text x="300" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#94a3b8">[Nama Screenshot]</text>
+  <rect x="100" y="250" width="400" height="40" rx="20" fill="#e2e8f0"/>
+  <text x="300" y="276" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#64748b">Ganti dengan screenshot asli</text>
+</svg>

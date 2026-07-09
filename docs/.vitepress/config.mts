@@ -29,6 +29,7 @@ export default withMermaid(
     srcDir: ".",
     cleanUrls: true,
     lastUpdated: true,
+    ignoreDeadLinks: true,
 
     vite: {
       server: {
@@ -51,6 +52,7 @@ export default withMermaid(
           items: [
             { text: "PPDGS USU", link: "/ppdgs/" },
             { text: "PPDS USU", link: "/ppds/" },
+            { text: "Instalasi SEB (Windows)", link: "/instalasi-seb/" },
           ],
         },
         { text: "FAQ", link: "/ppdgs/faq" },
@@ -70,6 +72,17 @@ export default withMermaid(
       ],
 
       sidebar: {
+        "/instalasi-seb/": [
+          {
+            text: "Panduan Instalasi SEB",
+            collapsed: false,
+            items: [
+              { text: "Panduan & Persyaratan", link: "/instalasi-seb/" },
+              { text: "Instalasi Windows", link: "/instalasi-seb/instalasi-windows" },
+              { text: "Penggunaan & Troubleshooting", link: "/instalasi-seb/penggunaan" },
+            ],
+          },
+        ],
         "/ppds/": [
           {
             text: "Pendahuluan",

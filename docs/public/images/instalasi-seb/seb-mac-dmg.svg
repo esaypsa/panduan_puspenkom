@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#f5f5f7"/>
+  <rect x="20" y="20" width="560" height="360" rx="8" fill="#fff" stroke="#d2d2d7" stroke-width="1"/>
+  <rect x="20" y="20" width="560" height="30" rx="8" fill="#f5f5f7"/>
+  <circle cx="40" cy="35" r="6" fill="#fe5f57"/>
+  <circle cx="58" cy="35" r="6" fill="#febc2e"/>
+  <circle cx="76" cy="35" r="6" fill="#28c840"/>
+  <text x="300" y="40" text-anchor="middle" font-family="Arial" font-size="12" fill="#333">SEB_3.5.0.558.dmg</text>
+  <rect x="80" y="80" width="440" height="100" rx="8" fill="#f0f0f0" stroke="#d2d2d7" stroke-width="1"/>
+  <rect x="100" y="95" width="64" height="64" rx="12" fill="#0f62fe"/>
+  <rect x="118" y="113" width="28" height="20" rx="4" fill="#fff" opacity="0.3"/>
+  <text x="180" y="120" font-family="Arial" font-size="14" font-weight="bold" fill="#1d1d1f">Safe Exam Browser</text>
+  <text x="180" y="140" font-family="Arial" font-size="11" fill="#86868b">Version 3.5.0.558</text>
+  <text x="180" y="158" font-family="Arial" font-size="11" fill="#86868b">Drag to Applications folder</text>
+  <rect x="100" y="210" width="240" height="100" rx="8" fill="#f0f0f0" stroke="#d2d2d7" stroke-width="1"/>
+  <rect x="120" y="225" width="48" height="48" rx="8" fill="#0071e3"/>
+  <rect x="136" y="241" width="16" height="12" rx="2" fill="#fff" opacity="0.3"/>
+  <text x="120" y="295" font-family="Arial" font-size="11" fill="#1d1d1f" text-anchor="middle">Applications</text>
+  <path d="M345 260 L380 230 L380 245 L420 245 L420 275 L380 275 L380 290 Z" fill="#0071e3" opacity="0.5"/>
+</svg>
