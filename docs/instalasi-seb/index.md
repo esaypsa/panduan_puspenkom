@@ -27,7 +27,7 @@ flowchart LR
 <div class="info-card-title">⚠️ Spesifikasi Minimum Komputer</div>
 <div class="info-card-content">
 <ul>
-  <li><strong>Sistem Operasi:</strong> Windows 7, 8, 8.1, atau 10 (64-bit) <em>atau</em> macOS 11 (Big Sur)+</li>
+  <li><strong>Sistem Operasi:</strong> Windows 10 atau 11 (64-bit) <em>atau</em> macOS 11 (Big Sur)+</li>
   <li><strong>Prosesor:</strong> Minimal Intel Core i3 1 GHz atau setara</li>
   <li><strong>RAM:</strong> Minimal <strong>8 GB</strong></li>
   <li><strong>Layar:</strong> Minimal 13 inch</li>
