@@ -38,8 +38,8 @@ Unduh **kedua file** berikut dari halaman [Panduan Instalasi](/instalasi-seb/):
 
 | File | Isi | Ukuran |
 |------|-----|--------|
-| `P3M-Addon.zip` | Aplikasi SEB v3.10 | ~334 MB |
-| `P3MUSU-App.zip` | File konfigurasi .seb | ~4 KB |
+| [`P3M-Addon.zip`](https://drive.google.com/file/d/1ZbS9EoMto0wsPQaZs6pbAKXhz5resOW3/view?usp=drive_link) | Aplikasi SEB v3.10 | ~334 MB |
+| [`P3MUSU-App.zip`](https://drive.google.com/file/d/1J9abwGw7B0t1BhM_bJcDE8kDSxRmVAgS/view?usp=drive_link) | File konfigurasi .seb | ~4 KB |
 
 Simpan kedua file di lokasi yang mudah ditemukan (misalnya folder **Downloads**).
 
