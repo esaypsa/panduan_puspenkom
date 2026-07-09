@@ -37,7 +37,7 @@ flowchart TB
 1. Pada tabel event, klik tombol **"Daftar"** pada event yang Anda minati
 2. Form Biodata akan muncul dengan beberapa tab yang perlu diisi:
 
-   - **Tab 1: Data Diri** -- Isi data pribadi, termasuk **Program Dokter Spesialis yang dipilih**
+    - **Tab 1: Data Diri** -- Isi data pribadi, termasuk **Program Dokter Spesialis yang dipilih** dan **Bukti Bayar** (wajib diupload di sini)
    - **Tab 2: Pendidikan Kedokteran** -- Upload ijazah S1 dan Profesi
    - **Tab 3: Pendidikan Non Formal** -- Upload sertifikat (jika ada)
    - **Tab 4: Karya Tulis** -- Upload cover dan halaman pertama karya tulis
@@ -59,7 +59,7 @@ Setelah pendaftaran terkirim, status pendaftaran Anda akan muncul di dashboard d
 
 Langkah selanjutnya:
 
-1. Segera lakukan [Pembayaran](/ppdgs/pembayaran)
+1. Segera unggah **Bukti Bayar** pada Tab 1: Data Diri di [Form Biodata](/ppdgs/form-biodata)
 2. Pantau [Status Pendaftaran](/ppdgs/status-pendaftaran)
 3. Lengkapi data jika ada yang kurang
 

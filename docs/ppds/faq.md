@@ -148,7 +148,7 @@ flowchart LR
 <FaqAccordion :items="[
   {
     q: 'Bagaimana cara melakukan pembayaran?',
-    a: 'Transfer ke rekening yang tertera di halaman Pembayaran, lalu upload bukti transfer melalui menu Upload Bukti Manual.'
+    a: 'Transfer ke rekening yang tertera, lalu unggah bukti transfer pada field Bukti Bayar di Tab 1: Data Diri pada Form Biodata.'
   },
   {
     q: 'Berapa lama batas waktu pembayaran?',

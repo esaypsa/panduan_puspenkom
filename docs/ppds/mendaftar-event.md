@@ -59,7 +59,7 @@ Setelah pendaftaran terkirim, status pendaftaran Anda akan muncul di dashboard d
 
 Langkah selanjutnya:
 
-1. Segera lakukan [Pembayaran](/ppds/pembayaran)
+1. Segera unggah **Bukti Bayar** pada Tab 1: Data Diri di [Form Biodata](/ppds/form-biodata)
 2. Pantau [Status Pendaftaran](/ppds/status-pendaftaran)
 3. Lengkapi data jika ada yang kurang
 

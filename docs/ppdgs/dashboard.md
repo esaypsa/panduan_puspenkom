@@ -56,8 +56,7 @@ Setiap perubahan status pendaftaran akan langsung terlihat di dashboard.
 Dari dashboard Anda dapat:
 
 - [Mendaftar event](/ppdgs/mendaftar-event) dengan mengklik tombol **"Daftar"** pada event yang tersedia
-- [Melengkapi biodata](/ppdgs/form-biodata)
-- [Melakukan pembayaran](/ppdgs/pembayaran)
+- [Melengkapi biodata](/ppdgs/form-biodata) (termasuk unggah Bukti Bayar di Tab Data Diri)
 
 <div class="info-card tip">
 <div class="info-card-title"><img src="/images/icons/book-and-person-winter-svgrepo-com.svg" alt=""> Tips</div>

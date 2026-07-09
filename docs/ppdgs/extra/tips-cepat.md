@@ -93,7 +93,7 @@ Isi setiap tab dari kiri ke kanan secara berurutan. Upload dokumen langsung saat
 
 ## 7. Lakukan Pembayaran Segera
 
-Setelah semua tab terisi lengkap, segera lakukan pembayaran dan upload bukti pembayaran di menu Pembayaran. Jangan menunggu mendekati batas waktu.
+Setelah semua tab terisi lengkap, segera unggah **Bukti Bayar** pada Tab 1: Data Diri di [Form Biodata](/ppdgs/form-biodata). Jangan menunggu mendekati batas waktu.
 
 ## 8. Pantau Status Secara Rutin
 
@@ -119,6 +119,6 @@ Segera setelah mendaftar, catat nomor registrasi Anda. Nomor ini akan diperlukan
 | Hari 2 | Isi tab Pendidikan Non Formal | 15 menit |
 | Hari 2 | Isi tab Karya Tulis | 15 menit |
 | Hari 2 | Isi tab Prestasi dan Penghargaan | 15 menit |
-| Hari 2 | Upload bukti pembayaran | 15 menit |
+| Hari 2 | Upload bukti pembayaran di Tab Data Diri | 15 menit |
 | Hari 3-5 | Verifikasi admin | 1-3 hari |
 | Hari 5+ | Selesai | - |

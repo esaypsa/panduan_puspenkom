@@ -56,6 +56,13 @@ Tab ini berisi data pribadi Anda. Pastikan data yang diisi sesuai dengan dokumen
 
 ![Screenshot Data Diri](/images/ppdgs/form-datadiri.png)
 
+<div class="info-card danger">
+<div class="info-card-title"><img src="/images/icons/receipt-alt-3-svgrepo-com.svg" alt=""> Wajib Upload Bukti Bayar</div>
+<div class="info-card-content">
+Pada tab Data Diri terdapat field <strong>Bukti Bayar</strong> yang <strong>wajib diisi</strong>. Unggah bukti transfer biaya pendaftaran (JPG/PNG, maksimal 1 MB) sebelum menyimpan data diri. Tanpa bukti bayar, pendaftaran Anda belum dianggap lengkap.
+</div>
+</div>
+
 ### Field Input
 
 | Field | Tipe | Opsi / Contoh |
@@ -74,6 +81,7 @@ Tab ini berisi data pribadi Anda. Pastikan data yang diisi sesuai dengan dokumen
 | Program Dokter Spesialis yang dipilih | Teks | Nama program spesialis yang dituju |
 | Alasan | Textarea | Alasan memilih program tersebut |
 | Foto Terbaru | File (JPG) | Max 1 MB, 2500x1600 px |
+| Bukti Bayar | File (JPG/PNG) | Wajib diisi, maksimal 1 MB. Unggah bukti transfer biaya pendaftaran |
 
 ### Persetujuan
 
@@ -349,7 +357,7 @@ Setiap tab memiliki tombol **Simpan** di bagian bawah. Pastikan Anda menyimpan d
 
 | Tombol | Fungsi |
 |--------|--------|
-| Simpan (Data Diri) | Menyimpan seluruh field Data Diri beserta foto |
+| Simpan (Data Diri) | Menyimpan seluruh field Data Diri beserta foto dan bukti bayar |
 | Simpan (setiap tabel dinamis) | Menyimpan data per baris pada tabel dinamis masing-masing tab |
 | Simpan (Deskripsi Diri) | Menyimpan seluruh jawaban esai |
 
