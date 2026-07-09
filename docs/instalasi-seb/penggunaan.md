@@ -9,11 +9,11 @@ outline: deep
 ### 1. Buka File .seb
 
 1. Pastikan komputer terhubung ke **internet**
-2. Buka folder **Desktop** (atau tempat Anda menyimpan file `p3musu.seb`)
-3. **Klik dua kali** file `p3musu.seb`
+2. Buka folder **Desktop** (atau tempat Anda menyimpan file `puspenkom-config.seb`)
+3. **Klik dua kali** file `puspenkom-config.seb`
 4. SEB akan terbuka dan menampilkan halaman **form login aplikasi CBT**
 
-![Form Login CBT](/images/instalasi-seb/seb-quiz.svg)
+![Form Login CBT](/images/instalasi-seb/cbt_apps_login_page.png)
 
 ### 2. Saat Tes Berlangsung
 
@@ -59,7 +59,7 @@ Saat SEB aktif:
       <span class="faq-icon">&#9660;</span>
     </div>
     <div class="faq-answer">
-      <p>Download ulang file dari halaman <a href="/instalasi-seb/">Panduan Instalasi</a> sesuai OS Anda, ekstrak dan salin file <code>p3musu.seb</code> ke Desktop.</p>
+      <p>Download ulang file dari halaman <a href="/instalasi-seb/">Panduan Instalasi</a> sesuai OS Anda, ekstrak dan salin file <code>puspenkom-config.seb</code> ke Desktop.</p>
     </div>
   </div>
   <div class="faq-item">
