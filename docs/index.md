@@ -133,7 +133,25 @@ flowchart LR
 
 ## Butuh Bantuan?
 
-Kunjungi halaman [Hubungi Kami](/hubungi-admin) untuk mendapatkan bantuan.
+<div class="grid-2">
+
+<div class="info-card info">
+<div class="info-card-title">📞 Hubungi Admin</div>
+<div class="info-card-content">
+Ada pertanyaan atau kendala? Hubungi tim admin langsung melalui WhatsApp atau Email.<br>
+<a href="/hubungi-admin">Lihat Panduan Hubungi Admin →</a>
+</div>
+</div>
+
+<div class="info-card success">
+<div class="info-card-title">🎫 Tiket Bantuan</div>
+<div class="info-card-content">
+Gunakan menu <strong>Tiket Bantuan</strong> di aplikasi Lentera untuk melaporkan kendala dan mendapatkan respon dari admin.<br>
+<a href="/lentera/tiket-bantuan">Lihat Panduan Tiket Bantuan →</a>
+</div>
+</div>
+
+</div>
 
 <div class="cta-section">
 <p>Sudah siap mendaftar? Langsung menuju aplikasi:</p>

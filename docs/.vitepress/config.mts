@@ -57,6 +57,7 @@ export default withMermaid(
         },
         { text: "FAQ", link: "/ppdgs/faq" },
         { text: "Hubungi Kami", link: "/hubungi-admin" },
+        { text: "Tiket Bantuan", link: "/lentera/tiket-bantuan" },
         {
           text: "Lainnya",
           items: [
@@ -117,6 +118,7 @@ export default withMermaid(
             items: [
               { text: "FAQ", link: "/ppds/faq" },
               { text: "Hubungi Kami", link: "/hubungi-admin" },
+              { text: "Tiket Bantuan", link: "/lentera/tiket-bantuan" },
             ],
           },
           {
@@ -167,6 +169,7 @@ export default withMermaid(
             items: [
               { text: "FAQ", link: "/ppdgs/faq" },
               { text: "Hubungi Kami", link: "/hubungi-admin" },
+              { text: "Tiket Bantuan", link: "/lentera/tiket-bantuan" },
             ],
           },
           {
@@ -180,6 +183,15 @@ export default withMermaid(
               { text: "Kesalahan Umum", link: "/ppdgs/extra/kesalahan-umum" },
               { text: "Dokumen Wajib", link: "/ppdgs/extra/dokumen-wajib" },
               { text: "Istilah-Istilah", link: "/ppdgs/extra/istilah" },
+            ],
+          },
+        ],
+        "/lentera/": [
+          {
+            text: "Aplikasi Lentera",
+            collapsed: false,
+            items: [
+              { text: "Tiket Bantuan", link: "/lentera/tiket-bantuan" },
             ],
           },
         ],
