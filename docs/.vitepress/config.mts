@@ -51,6 +51,7 @@ export default withMermaid(
           text: "Panduan",
           items: [
             { text: "PPDGS USU", link: "/ppdgs/" },
+            { text: "MANSOSKUL", link: "/mansoskul/" },
             { text: "PPDS USU", link: "/ppds/" },
             { text: "Instalasi SEB (Windows)", link: "/instalasi-seb/" },
           ],
@@ -82,6 +83,56 @@ export default withMermaid(
               { text: "Instalasi Windows", link: "/instalasi-seb/instalasi-windows" },
               { text: "Instalasi macOS", link: "/instalasi-seb/instalasi-macos" },
               { text: "Penggunaan & Troubleshooting", link: "/instalasi-seb/penggunaan" },
+            ],
+          },
+        ],
+        "/mansoskul/": [
+          {
+            text: "Pendahuluan",
+            collapsed: false,
+            items: [
+              { text: "Beranda Event", link: "/mansoskul/" },
+              { text: "Persiapan", link: "/mansoskul/persiapan" },
+            ],
+          },
+          {
+            text: "Akun & Login",
+            collapsed: false,
+            items: [
+              { text: "Registrasi Akun", link: "/mansoskul/registrasi-akun" },
+              { text: "Login", link: "/mansoskul/login" },
+            ],
+          },
+          {
+            text: "Pendaftaran Event",
+            collapsed: false,
+            items: [
+              { text: "Dashboard Peserta", link: "/mansoskul/dashboard" },
+              { text: "Form Biodata", link: "/mansoskul/form-biodata" },
+              { text: "Upload Dokumen", link: "/mansoskul/upload-dokumen" },
+              { text: "Status Pendaftaran", link: "/mansoskul/status-pendaftaran" },
+            ],
+          },
+          {
+            text: "Bantuan",
+            collapsed: false,
+            items: [
+              { text: "FAQ", link: "/mansoskul/faq" },
+              { text: "Hubungi Kami", link: "/hubungi-admin" },
+              { text: "Tiket Bantuan", link: "/lentera/tiket-bantuan" },
+            ],
+          },
+          {
+            text: "Referensi",
+            collapsed: false,
+            items: [
+              {
+                text: "Tips Agar Cepat Selesai",
+                link: "/mansoskul/extra/tips-cepat",
+              },
+              { text: "Kesalahan Umum", link: "/mansoskul/extra/kesalahan-umum" },
+              { text: "Dokumen Wajib", link: "/mansoskul/extra/dokumen-wajib" },
+              { text: "Istilah-Istilah", link: "/mansoskul/extra/istilah" },
             ],
           },
         ],

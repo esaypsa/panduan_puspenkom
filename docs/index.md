@@ -26,6 +26,12 @@ features:
       alt: PPDGS
     details: "Program Pendidikan Dokter Gigi Spesialis - Universitas Sumatera Utara"
     link: /ppdgs/persiapan
+  - title: "MANSOSKUL"
+    icon:
+      src: /images/icons/building-svgrepo-com.svg
+      alt: MANSOSKUL
+    details: "Manajemen Organisasi dan Kepemimpinan - Universitas Sumatera Utara"
+    link: /mansoskul/persiapan
   - title: "PPDS USU"
     icon:
       src: /images/icons/stethoscope-svgrepo-com.svg
@@ -61,6 +67,20 @@ features:
 Fakultas Kedokteran Gigi Universitas Sumatera Utara<br><br>
 <img src="/images/icons/book-and-person-winter-svgrepo-com.svg" class="icon-inline" alt=""> <a href="/ppdgs/persiapan">Baca Panduan →</a><br>
 <img src="/images/icons/question-square-svgrepo-com.svg" class="icon-inline" alt=""> <a href="/ppdgs/faq">FAQ</a> · <img src="/images/icons/phone-calling-svgrepo-com.svg" class="icon-inline" alt=""> <a href="/hubungi-admin">Hubungi Kami</a><br><br>
+<a href="https://lentera.puspenkomusu.com" target="_blank" class="cta-button-inline">
+  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+  Buka Aplikasi Lentera
+</a>
+</div>
+</div>
+
+<div class="info-card success" onclick="window.location='/mansoskul/persiapan'" style="cursor:pointer">
+<div class="info-card-title"><img src="/images/icons/building-svgrepo-com.svg" alt=""> MANSOSKUL</div>
+<div class="info-card-content">
+<strong>Manajemen Organisasi dan Kepemimpinan</strong><br>
+Universitas Sumatera Utara<br><br>
+<img src="/images/icons/book-and-person-winter-svgrepo-com.svg" class="icon-inline" alt=""> <a href="/mansoskul/persiapan">Baca Panduan →</a><br>
+<img src="/images/icons/question-square-svgrepo-com.svg" class="icon-inline" alt=""> <a href="/mansoskul/faq">FAQ</a> · <img src="/images/icons/phone-calling-svgrepo-com.svg" class="icon-inline" alt=""> <a href="/hubungi-admin">Hubungi Kami</a><br><br>
 <a href="https://lentera.puspenkomusu.com" target="_blank" class="cta-button-inline">
   <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
   Buka Aplikasi Lentera
@@ -109,6 +129,7 @@ Setiap event memiliki URL sendiri:
 |-------|-----|
 | **PPDGS USU** | `/ppdgs/` |
 | **PPDS USU** | `/ppds/` |
+| **MANSOSKUL** | `/mansoskul/` |
 | Event Mendatang | `/event-b/` |
 | Event Mendatang | `/event-c/` |
 
